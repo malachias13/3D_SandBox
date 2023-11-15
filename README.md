@@ -5,7 +5,7 @@ This Repository demonstrate some mathematical concepts that were taught to me in
 https://github.com/malachias13/3D_SandBox/assets/69220988/493dc652-629b-4165-99cd-80061fa3084a
 # How its done
 The way that collision detection is done math! Here is the formula I use.
-![Diagram1](https://github.com/malachias13/3D_SandBox/assets/69220988/b13ebd36-d29a-4521-af94-2c2dacec772b)
+![Diagram1](https://github.com/malachias13/3D_Sandbox/assets/69220988/ede8896a-8314-4f82-bfd5-40f8b26bdc67)
 
 _P_($`x, y`$), Rectangle _A_($`x_1, y_1`$), _B_($`x_2, y_2`$), _C_($`x_3, y_3`$), _D_($`x_4, y_4`$)
 
