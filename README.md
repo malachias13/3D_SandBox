@@ -15,7 +15,7 @@ _P_($`x, y`$), Rectangle _A_($`x_1, y_1`$), _B_($`x_2, y_2`$), _C_($`x_3, y_3`$)
 ![FindTriangleArea](https://github.com/malachias13/3D_Sandbox/assets/69220988/e1304bcd-ebfb-4169-9fee-a672babff74d)
 
  Code: Sum of Areas
-![SumOfAreas](https://github.com/malachias13/3D_SandBox/assets/69220988/ef46ca22-4744-4b68-9310-0127401a323d)
+![SumOfAreas](https://github.com/malachias13/3D_Sandbox/assets/69220988/a6766cf2-8b2d-4318-b01a-b306a3f33845)
  
 Conditional statement:
 If Sum of $`\triangle`$_APD_, $`\triangle`$_DPC_,$`\triangle`$_CPB_$`\triangle`$_PBA_ > Area of collision box, OR !(P$`z`$ <= collision box $`z`$Max AND P$`z`$ >= collision box $`z`$Min).
