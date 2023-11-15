@@ -21,4 +21,4 @@ Conditional statement:
 If Sum of $`\triangle`$_APD_, $`\triangle`$_DPC_,$`\triangle`$_CPB_$`\triangle`$_PBA_ > Area of collision box, OR !(P$`z`$ <= collision box $`z`$Max AND P$`z`$ >= collision box $`z`$Min).
 
 Conditional statement is true, then the point is not in the collision box. Conditional statement is false, then the point is in collision box.
-![CondStatementCollsion](https://github.com/malachias13/3D_SandBox/assets/69220988/a0cb3d16-cf1b-4cd9-8539-0edf512ac307)
+![CondStatementCollsion](https://github.com/malachias13/3D_Sandbox/assets/69220988/5d21f25e-1e3a-46c9-9da2-1b0c3a7cd85d)
