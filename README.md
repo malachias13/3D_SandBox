@@ -2,6 +2,7 @@
 
 This Repository demonstrate some mathematical concepts that were taught to me in high school such as geometry and algebra, but applied in game development.
 # Collision Box Detection
+## Example video
 https://www.youtube.com/watch?v=RPbb0t1kb8o
 # How its done
 The way that collision detection is done math! Here is the formula I use.
