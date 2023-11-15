@@ -2,7 +2,7 @@
 
 This Repository demonstrate some mathematical concepts that were taught to me in high school such as geometry and algebra, but applied in game development.
 # Collision Box Detection
-https://github.com/malachias13/3D_SandBox/assets/69220988/493dc652-629b-4165-99cd-80061fa3084a
+https://www.youtube.com/watch?v=RPbb0t1kb8o
 # How its done
 The way that collision detection is done math! Here is the formula I use.
 ![Diagram1](https://github.com/malachias13/3D_Sandbox/assets/69220988/ede8896a-8314-4f82-bfd5-40f8b26bdc67)
